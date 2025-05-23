@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /ksi/
+Disallow: /kia/
+Disallow: *
+Host: https://cord70.github.io/fabrika 
