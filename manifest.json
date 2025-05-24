@@ -3,21 +3,21 @@
   "short_name": "Ровесница века",
   "icons": [
     {
-      "src": "/favicon512.png",
+      "src": "favicon512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
 ,
     {
-      "src": "/apple-touch-icon.png",
+      "src": "apple-touch-icon.png",
       "sizes": "180x180",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ],
   "lang": "Russian",
-  "start_url": "/index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "white",
   "theme_color": "#EDF8FC"
